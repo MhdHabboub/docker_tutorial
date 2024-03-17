@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  my_app:
+    image: my_second_image
+    container_name: container2
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - C:\docker_tutorial\data:/my_app/app_data
+      - C:\docker_tutorial\app\nb_code:/my_app/nb_code
+    stdin_open: true
+    tty: true
