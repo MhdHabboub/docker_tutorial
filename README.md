@@ -1,6 +1,6 @@
 # Dockerizing Your Python ML Script
 
-Welcome to the guide on how to Dockerize your Python ML script! By the end of this walkthrough, you'll be able to ship your code across systems like a submarine in the ocean. Let's dive in!
+Welcome to this [YouTube guide](https://youtu.be/wPeJAqM3bvk) on how to Dockerize your Python ML script! By the end of this walkthrough, you'll be able to ship your code across systems like a submarine in the ocean. Let's dive in!
 
 ## Introduction
 
